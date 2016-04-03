@@ -25,7 +25,7 @@ plot(data$Time,
 plot(data$Time,
      data$Voltage,
      type = "l",
-     ylab = "Global Active Power (kilowatts)",
+     ylab = "Voltage",
      xlab = "datetime")
 
 # bottom left
